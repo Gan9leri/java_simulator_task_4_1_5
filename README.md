@@ -19,7 +19,6 @@ x, y содержат числа - стартовая позиция игрок�
 
 direction содержит направление движения, одного из: up, down, left, right.
 
-<p align="center">
 <a <img src="media/images/game-field-2.jpg" alt="field"/></a>
 
 >Sample Input1:
